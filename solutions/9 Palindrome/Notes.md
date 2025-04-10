@@ -1,3 +1,4 @@
+Youtube link - https://www.youtube.com/watch?v=8YTOwN_hDow
 # 🧠 LeetCode - Palindrome Number (Java)
 
 This repository contains Java solutions for the popular LeetCode problem **"Palindrome Number"**. It includes:
@@ -19,7 +20,7 @@ This repository contains Java solutions for the popular LeetCode problem **"Pali
 ## 📄 Code Files
 
 - `Solution.java` – Contains both string-based and optimized solutions.
-- `README.md` – You're here 😄
+- `Notes.md` – You're here 😄
 
 ---
 
