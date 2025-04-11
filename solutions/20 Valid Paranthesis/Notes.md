@@ -1,3 +1,5 @@
+Youtube Link - https://youtu.be/FaKRA6COjv4
+
 # Java Stack Problem - Valid Parentheses
 
 This note explains key Java concepts used in the `isValid()` method for checking valid parentheses.
