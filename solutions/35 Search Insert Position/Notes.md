@@ -1,3 +1,5 @@
+Youtube Link - https://youtu.be/0lasvTaIqBA
+
 # 🔍 Java Binary Search - Notes
 
 ## Keywords and Their Meanings
