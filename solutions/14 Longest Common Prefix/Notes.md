@@ -16,7 +16,6 @@ Given an array of strings, find the longest common prefix among all the strings.
 | `String`                                | A built-in Java class representing text data.                                  |
 | `longestCommonPrefix`                   | The method name which returns the longest common prefix.                       |
 | `String[] strs`                         | Parameter passed to the method: an array of strings.                           |
-| `if (strs.length == 0 || strs == null)` | Edge case check to return an empty string if input is invalid.                |
 | `return ""`                             | Returns an empty string if no common prefix exists or input is invalid.        |
 | `for (int i = 0; i < strs[0].length(); i++)` | Outer loop iterating character-by-character through the first string.     |
 | `char ch = strs[0].charAt(i)`           | Extracts the character at position `i` from the first string.                  |
